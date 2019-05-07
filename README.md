@@ -1,3 +1,3 @@
 # Verte Recette
 
-Mon premier livre avec GitHub
+Mon premier livre avec GitHub... pas facile
